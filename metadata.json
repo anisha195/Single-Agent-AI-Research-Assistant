@@ -1,0 +1,6 @@
+{
+  "name": "Single-Agent AI Research Assistant",
+  "description": "Autonomous single-agent research assistant powered by Gemini with sequential tool execution, RAG, web search, external APIs, and source tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
